@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 10 Home: Make Me Your Own
+# Team 10 Home: Make Me Your Own: Hello Test!
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
