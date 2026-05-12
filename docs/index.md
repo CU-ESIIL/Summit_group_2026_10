@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 10 Home: Make Me Your Own: Hello Test!
+# Team 10 Home: Enabling real-time crop health and food security risk monitoring with AI (working broad title)
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
@@ -62,8 +62,14 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
-| | | | |
+| Yi Yang | Colorado State University | | |
+| Aashish Gautam | | | |
+| Mariella Carbajal Carrasco | | | |
+| Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
+| Amos Abdulai | | | |
+| Mohammad Shahriar Saif | | | |
+| Yu Peng | | | |
+| Shashi Konduri | NEON | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
