@@ -68,7 +68,7 @@ public_mode_toggle: true
 | Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
 | Amos Abdulai | | | |
 | Mohammad Shahriar Saif | | | |
-| Yu Peng | | | |
+| Yu Peng |Indiana University | yp24@iu.edu|Eco-YuPeng |
 | Shashi Konduri | NEON | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
