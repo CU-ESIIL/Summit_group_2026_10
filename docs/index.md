@@ -34,7 +34,7 @@ public_mode_toggle: true
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_10/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
 
-![Team hero image](assets/hero/hero.png)
+![Team hero image](assets/hero/day-1-hero-a.png)
 
 !!! note "How to replace the image above"
     Upload an image that represents your project and welcome people to your page. 
@@ -105,9 +105,13 @@ Our AI team norms:
 Our decision making strategy:
 
 *How we did it*
+
 1. Write all ideas on whiteboard
+
 2. Take a pause and think about the suggestions
+
 3. Majority vote on the ideas
+
 4. Pick the majority one, and further iterate using the same process
 
 
@@ -136,19 +140,29 @@ Brainstorm:
 *We used decision method majority VOTING to select 1. as a direction*
 
 What is the end product?
+
 - Data product
+
 - Perspective/best practices on using Earth Embeddings
+
 - Paper
+
 - Perspective paper
+
 - Grant proposal
 
 Brainstorm Research Question
+
 - Method and output comparison
+
 - Can we leverage Earth Embeddings to generate high resolution soil moisture at certain frequency
+
 - Compare different embedding method
+
 - Compare water stress regions and non-stress regions in earth embedding space (e.g. compare grapes California. E.g. use different remote sensing metrics and see if the earth embeddings)
 
 1st Iteration
+
 - Can we use Earth Embeddings to produce more fine-grained temporal and spatial soil moisture maps of grape fields in California in order to (1) inform irrigation strategies, (2) identify drought areas, and (3) predict in-season drought events (flash-drought)?
 
 2nd Iteration
@@ -157,26 +171,31 @@ Overall:
 - Can Earth Embeddings be leveraged to produce more fine-grained temporal and spatial soil moisture maps?
 
 Case Study: 
+
 - Data Product: 
+
     1. Soil-moisture maps of grape fields in California 2017-2025
+
     2. Crop-stress maps of grape fields in California before and after the 2021 drought event?
 
 3rd Iteration
 
 Scientific Question:
+
 - Can Earth Observation Embeddings estimate soil moisture content at higher spatial and temporal resolutions than traditional ML/RS approaches?
 
 Crop stress
 
 Can this be applied to:
+
 1. Inform irrigation strategies
+
 2. Identify drought areas
+
 3. Robustly identify in-season flash-droughts
 
 Team structure etc.
 - Split to explore both yearly composites and daily ones.
-
-![Proposed Method](assets/whiteboards/day2_proposed-method.png)
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -203,9 +222,13 @@ Our hypotheses is that: earth embeddings (which harmonize many different remote 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
+
 - For food security, we need to
+
 - High-value crops like grapes and corn are important for nutrition and agricultral export
+
 - Soil moisture information allow farmers and state-level officials to make more proactive management strategies, for instance in irrigation and drought-preparedness
+
 - California contains the Central Valley, one of the most productive agricultural regions in the US
 
 People who could use this:
@@ -247,6 +270,8 @@ Methods/technologies we are testing:
 | Use *daily* earth observation embeddings using MOSAIKS pipeline AND/OR open-source earth foundation models  | ... | ... |
 | Combine above approaches with coarse soil moisture maps and training set of in-situ soil moisture network | ... | ... |
 | ... | ... | ... |
+
+![Proposed Method](assets/whiteboards/day2_proposed-method.png)
 
 ### Challenges identified
 
