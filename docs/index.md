@@ -67,7 +67,7 @@ public_mode_toggle: true
 | Mariella Carbajal Carrasco | | | |
 | Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
 | Amos Abdulai | | | |
-| Mohammad Shahriar Saif | | | |
+| Mohammad Shahriar Saif | Colorado State University | ms.saif@colostate.edu | @saif8091 |
 | Yu Peng |Indiana University | yp24@iu.edu|Eco-YuPeng |
 | Shashi Konduri | NEON | | |
 
