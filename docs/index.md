@@ -139,13 +139,15 @@ What would count as progress:
 ...
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
+Our hypotheses is that:
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
-
-...
+- insturcting the field managenment practices ???
+- understaning the potential climate timitation potentials and crop yied risks ???
+- 
 
 People who could use this:
 
