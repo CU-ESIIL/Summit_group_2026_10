@@ -71,6 +71,7 @@ public_mode_toggle: true
 | Yu Peng |Indiana University | yp24@iu.edu|Eco-YuPeng |
 | Shashi Konduri | NEON | | |
 | Johnie |  | | |
+|Tatiana Acero-Cuellar|University of Delaware|taceroc@udel.edu|taceroc|
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
