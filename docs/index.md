@@ -104,7 +104,12 @@ Our AI team norms:
 
 Our decision making strategy:
 
-...
+*How we did it*
+1. Write all ideas on whiteboard
+2. Take a pause and think about the suggestions
+3. Majority vote on the ideas
+4. Pick the majority one, and further iterate using the same process
+
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -115,43 +120,97 @@ Our decision making strategy:
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_10/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
-Short term:
+Brainstorm:
 
-...
+1. Use earth embeddings to monitor and predict soil moisture at the field level (or fine-grained)
+    - Merge with field sensors
+    - GHG emissions
+    - Compare earth embeddings vs. remote sensing
 
-Long term:
+2. Ammonia emission
+    - tropomi
 
-- ...
-- ...
+3. Use AI tool to create input data for ecosystem models to ecosystem services
+    - tillage
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
+*We used decision method majority VOTING to select 1. as a direction*
 
-*Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
+What is the end product?
+- Data product
+- Perspective/best practices on using Earth Embeddings
+- Paper
+- Perspective paper
+- Grant proposal
+
+Brainstorm Research Question
+- Method and output comparison
+- Can we leverage Earth Embeddings to generate high resolution soil moisture at certain frequency
+- Compare different embedding method
+- Compare water stress regions and non-stress regions in earth embedding space (e.g. compare grapes California. E.g. use different remote sensing metrics and see if the earth embeddings)
+
+1st Iteration
+- Can we use Earth Embeddings to produce more fine-grained temporal and spatial soil moisture maps of grape fields in California in order to (1) inform irrigation strategies, (2) identify drought areas, and (3) predict in-season drought events (flash-drought)?
+
+2nd Iteration
+
+Overall:
+- Can Earth Embeddings be leveraged to produce more fine-grained temporal and spatial soil moisture maps?
+
+Case Study: 
+- Data Product: 
+    1. Soil-moisture maps of grape fields in California 2017-2025
+    2. Crop-stress maps of grape fields in California before and after the 2021 drought event?
+
+3rd Iteration
+
+Scientific Question:
+- Can Earth Observation Embeddings estimate soil moisture content at higher spatial and temporal resolutions than traditional ML/RS approaches?
+
+Crop stress
+
+Can this be applied to:
+1. Inform irrigation strategies
+2. Identify drought areas
+3. Robustly identify in-season flash-droughts
+
+Team structure etc.
+- Split to explore both yearly composites and daily ones.
+
+![Proposed Method](assets/whiteboards/day2_proposed-method.png)
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
+
 Our working question:
 
-...
+- Can Earth Observation Embeddings estimate soil moisture content at higher spatial and temporal resolutions than traditional ML/RS approaches?
+
+Our final product: 
+
+- *Data Product*: Higher spatial and temporal resolution soil moisture map of agricultural areas in California. (starting 2017-2025)
+- *Academic Product*: Paper
 
 What would count as progress:
 
-...
+- Specific question
+- Roadmap and timeline for future work
+- Potentially trying to produce some initial maps with Alpha Earth Foundations model 
 
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
-Our hypotheses is that:
+## Hypotheses/Intentions
+Our hypotheses is that: earth embeddings (which harmonize many different remote sensing data sources) could help us produce higher resolution soil moisture content maps
 
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
-- insturcting the field managenment practices ???
-- understaning the potential climate timitation potentials and crop yied risks ???
-- 
+- For food security, we need to
+- High-value crops like grapes and corn are important for nutrition and agricultral export
+- Soil moisture information allow farmers and state-level officials to make more proactive management strategies, for instance in irrigation and drought-preparedness
+- California contains the Central Valley, one of the most productive agricultural regions in the US
 
 People who could use this:
 
-...
+- Farmers, land-managements, state-level agriculture officials, food- and beverage industry
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -167,9 +226,11 @@ People who could use this:
 Promising data sources:
 
 - [Data source 1](#): SMAP L4 Global:https://nsidc.org/data/spl4smgp/versions/7
-- [Data source 2](#): Colorado Soil Moisture:https://spatial.colostate.edu/quench/
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- [Data source 2](#): SMOS: https://earth.esa.int/eogateway/missions/smos
+- [Data source 3](#): USGS In-Situ Soil Moisture sensor network for validation
+- [Data source 4](#): 30m Crop LULC Regions
+- [Data source 5](#): Alpha Earth Embeddings (which includes bands (C&L-bands) which are sensitive to soil moisture)
+- [Data source 6](#): Terra Torch Prithvi, Clay, and Terra Mind earth embedding models
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -182,15 +243,15 @@ Methods/technologies we are testing:
 
 | Method or technology | What we tested | Early note |
 |---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+| Use *yearly* Google AlphaEarth Foundations embeddings to produce soil moisture maps, validate effectiveness with in-situ soil moisture network. | ... | ... |
+| Use *daily* earth observation embeddings using MOSAIKS pipeline AND/OR open-source earth foundation models  | ... | ... |
+| Combine above approaches with coarse soil moisture maps and training set of in-situ soil moisture network | ... | ... |
 | ... | ... | ... |
 
 ### Challenges identified
 
-- ...
-- ...
+- Google AlphaEarth Foundations Embeddings are yearly, which may not be enough for real-time monitoring
+- Crops can cycle
 
 ### Visuals
 
@@ -201,6 +262,7 @@ Methods/technologies we are testing:
 Short term: 
 
 Long term: 
+- Application above (irrigation, drought characterization, flash-drought prediction)
 
 !!! note "Day 3 Tasks"
     Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
