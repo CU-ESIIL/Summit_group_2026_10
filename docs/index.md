@@ -97,7 +97,8 @@ Our AI team norms:
 - We believe we *can* use AI for e.g. brainstorming, editing, coding, and data analysis.
 - **Data Usage**: we must ensure that we have **data permission** if we want AI to be able to see the data, otherwise ensure we use dummy data and don't put in personal or sensitive data when using AI
 - **Data Analysis**: If data we use is open-source / public we can let AI use it. BUT if the data is private or sensitive, use dummy data and 
-- **Writing**: We can use it for brainstorming and editing grammar, but we should be doing the outlines, thinking, domain expertise output, and create initiatlization.
+- **Writing**: We can use it for brainstorming and editing, but *we* should be doing the outlines, the first draft, deep thinking, domain expertise input, and creative ideas.
+- **References**: We should find and cite references ourselves.
 - **Coding Tools**: We use Claude, Claude Code, GitHub Copilot, ChatGPT, Codex, Gemini. Both web versions and VSCode Extensions.
 
 Our decision making strategy:
