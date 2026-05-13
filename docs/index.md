@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 10 Home: Enabling real-time crop health and food security risk monitoring with AI (working broad title)
+# Team 10 Home: Generating High Spatial and Temporal Resolution Soil Moisture Content Maps Using Earth Observation Embeddings
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.
