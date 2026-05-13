@@ -70,6 +70,7 @@ public_mode_toggle: true
 | Mohammad Shahriar Saif | Colorado State University | ms.saif@colostate.edu | @saif8091 |
 | Yu Peng |Indiana University | yp24@iu.edu|Eco-YuPeng |
 | Shashi Konduri | NEON | | |
+| Johnie |  | | |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -91,11 +92,13 @@ public_mode_toggle: true
 
     [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_10/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
-Our team norms:
+Our AI team norms:
 
-- ...
-- ...
-- ...
+- We believe we *can* use AI for e.g. brainstorming, editing, coding, and data analysis.
+- **Data Usage**: we must ensure that we have **data permission** if we want AI to be able to see the data, otherwise ensure we use dummy data and don't put in personal or sensitive data when using AI
+- **Data Analysis**: If data we use is open-source / public we can let AI use it. BUT if the data is private or sensitive, use dummy data and 
+- **Writing**: We can use it for brainstorming and editing grammar, but we should be doing the outlines, thinking, domain expertise output, and create initiatlization.
+- **Coding Tools**: We use Claude, Claude Code, GitHub Copilot, ChatGPT, Codex, Gemini. Both web versions and VSCode Extensions.
 
 Our decision making strategy:
 
