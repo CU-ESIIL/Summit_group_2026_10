@@ -63,7 +63,7 @@ public_mode_toggle: true
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
 | Yi Yang | Colorado State University | | |
-| Aashish Gautam | | | |
+| Aashish Gautam |Jackson State University |aashish.gautam@students.jsums.edu |@aashish66 |
 | Mariella Carbajal Carrasco | | | |
 | Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
 | Amos Abdulai | | | |
