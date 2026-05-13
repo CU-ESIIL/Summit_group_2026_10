@@ -157,7 +157,7 @@ People who could use this:
 
     Add 2-4 promising data sources (links +1-line notes)    
 
-![Exploration figure](docs/assets/figures/data_soil moisture.png)
+![Exploration figure](assets/figures/data_soil moisture.png)
 
 *Snapshot showing initial data patterns.*
 
