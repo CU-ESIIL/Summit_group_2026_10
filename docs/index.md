@@ -331,7 +331,7 @@ Long term:
 
 - Future workshop via ESIP cluster
 - Monthly meeting （emaillist / slack / Zoom / google storge）
-  (assets/figures/ESIP.png)
+ ![Story visual](assets/figures/ESIP.png)
 
 Who should see this next
 
