@@ -49,7 +49,7 @@ Our hypotheses is that: earth embeddings (which harmonize many different remote 
 ## Study Area (Soil moisture Station Density Map)
 ![Exploration figure](assets/figures/Layout.png)
 
-## Why this matters 
+# Why this matters 
 
 This matters because:
 
@@ -67,7 +67,7 @@ People who could use this:
 
 
 
-## Promising data sources:
+# Promising data sources:
 
 - [Data source 1](#): SMAP L4 Global:https://nsidc.org/data/spl4smgp/versions/7
 - [Data source 2](#): SMOS: https://earth.esa.int/eogateway/missions/smos
@@ -76,30 +76,30 @@ People who could use this:
 - [Data source 5](#): Alpha Earth Embeddings (which includes bands (C&L-bands) which are sensitive to soil moisture)
 - [Data source 6](#): Terra Torch Prithvi, Clay, and Terra Mind earth embedding models
 
-## Methods/technologies 📣 
+# Methods/technologies 📣 
 
 
 
 ![Method or workflow visual](assets/figures/method3.png)
 
-# How we including earth embedding
+## How we including earth embedding
 
 ![Method or workflow visual](assets/figures/method1.png)
 
 
-### Preliminary Results 
+# Preliminary Results 
 
 ## field observation data used for taining
 ![Story visual](assets/project/subsample-stations.png)
 
 ## The comparing: Trained regression via RF model ( AE vs SMAP)
-# Top:AlphaEarth Embeddings using yearly field data
-# Bottom: SMAP (tranditional RS)
+### Top:AlphaEarth Embeddings using yearly field data
+### Bottom: SMAP (tranditional RS)
 
 ![Story visual](assets/project/soil_moisture_timeline_2021-2023.png)
 
 
-### What’s next? 📣 
+# What’s next? 📣 
 
 
 - ## Future workshop via ESIP cluster
@@ -109,7 +109,7 @@ People who could use this:
  ![Story visual](assets/figures/futrue.png)
 
 
-- ## Team Photo
+- # Team Photo
 
 ![Team photo](assets/team/team_photo.jpg)
 
