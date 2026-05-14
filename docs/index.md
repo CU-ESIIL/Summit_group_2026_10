@@ -305,9 +305,9 @@ Long term:
 Headline 1 — field observation data used for taining
 ![Story visual](assets/project/subsample-stations.png)
 
-Headline 2 — field observation data used for taining
-Trained regression via RF model
-Top:AlphaEarth Embeddings
+Headline 2 — Results comparing 
+Trained regression via RF model ( AE vs SMAP)
+Top:AlphaEarth Embeddings using yearly field data
 Bottom: SMAP (tranditional RS)
 
 ![Story visual](assets/project/soil_moisture_timeline_2021-2023.png)
