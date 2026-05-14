@@ -100,7 +100,7 @@ People who could use this:
 ![Proposed Method](assets/whiteboards/day2_proposed-method.png)
 
 
-![Method or workflow visual](assets/figures/method.png)
+![Method or workflow visual](assets/figures/method3.png)
 
 # How we including earth embedding
 
