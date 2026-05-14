@@ -303,14 +303,14 @@ Long term:
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
 Headline 1 — field observation data used for taining
-![Sample location](project/subsample-stations.png)
+![Story visual](assets/project/subsample-stations.png)
 
 Headline 2 — field observation data used for taining
 Trained regression via RF model
 1st row:AlphaEarth Embeddings
 2nd row:SMAP (tranditional RS)
 
-![Result 1](project/project/soil_moisture_timeline_2021-2023.png)
+![Story visual](assets/project/project/soil_moisture_timeline_2021-2023.png)
 ...
 
 Headline 3 — implication for practice or policy
