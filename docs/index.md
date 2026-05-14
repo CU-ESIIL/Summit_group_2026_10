@@ -35,11 +35,13 @@
 Our working question:
 
 - Can Earth Observation Embeddings estimate soil moisture content at higher spatial and temporal resolutions than traditional ML/RS approaches?
+- Can Earth Observation Embeddings also help improve the prediction of soil mositrure in deeper depths
 
 Our final product: 
 
 - *Data Product*: Higher spatial and temporal resolution soil moisture map of agricultural areas in California. (starting 2017-2025)
 - *Academic Product*: Paper
+- *Academic Product*: a new framework that can gap fill fine temporal and spatial resolution soil mositure with existing field soil moisture measurements
 
 What would count as progress:
 
