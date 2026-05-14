@@ -24,7 +24,7 @@
 | Mohammad Shahriar Saif | Colorado State University | ms.saif@colostate.edu | @saif8091 |
 | Yu Peng |Indiana University | yp24@iu.edu|@eco-yupeng |
 | Shashi Konduri | NEON | | |
-| Johnie |  | | |
+| Johnie plentybull | jplenty28637@olc.edu | | |
 |Tatiana Acero-Cuellar|University of Delaware|taceroc@udel.edu|taceroc|
 
 
