@@ -62,7 +62,7 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| Yi Yang | Colorado State University |yi.yang@colostate.edu | |
+| Yi Yang | Colorado State University |yi.yang@colostate.edu |@y1y9ng |
 | Aashish Gautam |Jackson State University |aashish.gautam@students.jsums.edu |@aashish66 |
 | Mariella Carbajal Carrasco | | | |
 | Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
