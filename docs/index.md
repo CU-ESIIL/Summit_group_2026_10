@@ -80,12 +80,12 @@ People who could use this:
 - [Data source 6](#): Terra Torch Prithvi, Clay, and Terra Mind earth embedding models
 
 # Methods/technologies 📣 
-
+## To include earth embedding
 
 
 ![Method or workflow visual](assets/figures/method3.png)
 
-## How we including earth embedding
+
 
 ![Method or workflow visual](assets/figures/method1.png)
 
