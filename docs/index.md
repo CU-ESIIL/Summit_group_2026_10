@@ -332,7 +332,8 @@ Long term:
 - Future workshop via ESIP cluster
 - Monthly meeting （emaillist / slack / Zoom / google storge）
  ![Story visual](assets/figures/ESIP.png)
- ![Story visual](assets/figures/Future.png)
+
+ ![Story visual](assets/figures/futrue.png)
 Who should see this next
 
 - ...
