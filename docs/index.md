@@ -1,7 +1,7 @@
 
     
 
-# Team 10 Home: Generating High Spatial and Temporal Resolution Soil Moisture Content Maps Using Earth Observation Embeddings
+# Team 10 Home: Generating High Spatial and Temporal Resolution Cropland Soil Moisture Content Maps Using Earth Observation Embeddings
 
 
 ![Team hero image](assets/hero/day-1-hero-a.png)
