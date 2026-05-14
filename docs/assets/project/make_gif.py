@@ -150,3 +150,32 @@ for i, year in enumerate(YEARS_3):
 out_3 = BASE / "soil_moisture_timeline_2021-2023.png"
 static3.save(out_3)
 print(f"Saved 2021–2023 timeline → {out_3}")
+
+# ── Animated GIF for 2021–2023 only ──────────────────────────────────────────
+frames_3 = []
+for year in YEARS_3:
+    ae   = load_resized(AE_DIR   / f"AE-{year}.png",   FRAME_HEIGHT)
+    smap = load_resized(SMAP_DIR / f"SMAP-{year}.png", FRAME_HEIGHT)
+
+    total_w = smap.width + GAP + ae.width
+    total_h = LABEL_HEIGHT + FRAME_HEIGHT
+
+    frame = Image.new("RGBA", (total_w, total_h), BG_COLOR)
+    draw  = ImageDraw.Draw(frame)
+    draw.text((total_w // 2, 4), str(year), fill=TEXT_COLOR, font=font, anchor="mt")
+    draw.text((smap.width // 2, 24), "SMAP", fill=(180, 180, 255), font=small_font, anchor="mt")
+    draw.text((smap.width + GAP + ae.width // 2, 24), "AlphaEarth", fill=(180, 255, 180), font=small_font, anchor="mt")
+    frame.paste(smap, (0, LABEL_HEIGHT))
+    frame.paste(ae,   (smap.width + GAP, LABEL_HEIGHT))
+    frames_3.append(frame.convert("RGB"))
+
+out_gif_3 = BASE / "soil_moisture_comparison_2021-2023.gif"
+frames_3[0].save(
+    out_gif_3,
+    save_all=True,
+    append_images=frames_3[1:],
+    duration=DURATION_MS,
+    loop=0,
+    optimize=False,
+)
+print(f"Saved 2021–2023 GIF      → {out_gif_3}")
