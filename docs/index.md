@@ -58,14 +58,14 @@ public_mode_toggle: true
 | Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
 | Amos Abdulai | Livingstone College| abdulaiamos716@outlook.com| aabdulai116|
 | Mohammad Shahriar Saif | Colorado State University | ms.saif@colostate.edu | @saif8091 |
-| Yu Peng |Indiana University | yp24@iu.edu|Eco-YuPeng |
+| Yu Peng |Indiana University | yp24@iu.edu|@eco-yupeng |
 | Shashi Konduri | NEON | | |
 | Johnie |  | | |
 |Tatiana Acero-Cuellar|University of Delaware|taceroc@udel.edu|taceroc|
 
 
 
-## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
+## Our question(s) 📣
 
 
 Our working question:
@@ -115,10 +115,8 @@ People who could use this:
 - [Data source 5](#): Alpha Earth Embeddings (which includes bands (C&L-bands) which are sensitive to soil moisture)
 - [Data source 6](#): Terra Torch Prithvi, Clay, and Terra Mind earth embedding models
 
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
+## Methods/technologies 📣 
 
-!!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
 
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_10/tree/main/code){ .md-button }
 
@@ -133,13 +131,7 @@ Methods/technologies we are testing:
 
 ![Proposed Method](assets/whiteboards/day2_proposed-method.png)
 
-### Challenges identified
 
-- Google AlphaEarth Foundations Embeddings are yearly, which may not be enough for real-time monitoring
-
-### Visuals
-
-# General Method 
 
 ![Method or workflow visual](assets/figures/method.png)
 
