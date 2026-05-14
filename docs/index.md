@@ -66,7 +66,7 @@ public_mode_toggle: true
 | Aashish Gautam |Jackson State University |aashish.gautam@students.jsums.edu |@aashish66 |
 | Mariella Carbajal Carrasco | | | |
 | Alice Heiman | Stanford University | aheiman@stanford.edu | @aliceheiman |
-| Amos Abdulai | | | |
+| Amos Abdulai | Livingstone College| abdulaiamos716@outlook.com| aabdulai116|
 | Mohammad Shahriar Saif | Colorado State University | ms.saif@colostate.edu | @saif8091 |
 | Yu Peng |Indiana University | yp24@iu.edu|Eco-YuPeng |
 | Shashi Konduri | NEON | | |
