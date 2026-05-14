@@ -281,17 +281,6 @@ Methods/technologies we are testing:
 
 ### Visuals
 ![Method or workflow visual](assets/figures/method.png)
-### Next Steps
-
-Short term: 
-
-Long term: 
-- Application above (irrigation, drought characterization, flash-drought prediction)
-
-!!! note "Day 3 Tasks"
-    Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_10/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
 
 ## Team Photo { #team-photo }
@@ -300,7 +289,7 @@ Long term:
 
 *Team members and collaborators who contributed to this project.*
 
-## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
+## Visuals that tell a story 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
 Headline 1 — field observation data used for taining
 ![Story visual](assets/project/subsample-stations.png)
@@ -311,25 +300,10 @@ Top:AlphaEarth Embeddings using yearly field data
 Bottom: SMAP (tranditional RS)
 
 ![Story visual](assets/project/soil_moisture_timeline_2021-2023.png)
-...
 
-Headline 3 — implication for practice or policy
-
-...
-
-## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
-
-![Story visual](assets/figures/main_result.png)
-
-*Visual 1: the main pattern or output we want people to remember.*
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
-Short term:
-
-- ...
-
-Long term:
 
 - Future workshop via ESIP cluster
 - Monthly meeting （emaillist / slack / Zoom / google storge）
