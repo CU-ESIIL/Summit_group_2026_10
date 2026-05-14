@@ -7,6 +7,9 @@
 ![Team hero image](assets/hero/day-1-hero-a.png)
 
 
+- # Team Photo
+
+![Team photo](assets/team/team_photo.jpg)
 
 ## People { #people .oasis-report-out-context }
 
@@ -109,8 +112,5 @@ People who could use this:
  ![Story visual](assets/figures/futrue.png)
 
 
-- # Team Photo
-
-![Team photo](assets/team/team_photo.jpg)
 
 
