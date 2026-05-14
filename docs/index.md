@@ -279,8 +279,6 @@ Methods/technologies we are testing:
 - Crops can cycle
 
 ### Visuals
-
-![Method or workflow visual](assets/figures/figure1.png)
 ![Method or workflow visual](assets/figures/method.png)
 ### Next Steps
 
