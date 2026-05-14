@@ -23,7 +23,7 @@
 | Amos Abdulai | Livingstone College| abdulaiamos716@outlook.com| aabdulai116|
 | Mohammad Shahriar Saif | Colorado State University | ms.saif@colostate.edu | @saif8091 |
 | Yu Peng |Indiana University | yp24@iu.edu|@eco-yupeng |
-| Shashi Konduri | NEON/Battelle | konduri@battelleecology.org | @skonduri |
+| Shashi Konduri | NEON/Battelle | konduri@battelleecology.org | @Shashi-konduri |
 | Johnie plentybull | jplenty28637@olc.edu | | |
 |Tatiana Acero-Cuellar|University of Delaware|taceroc@udel.edu|taceroc|
 
