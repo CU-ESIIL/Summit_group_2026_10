@@ -281,7 +281,7 @@ Methods/technologies we are testing:
 ### Visuals
 
 ![Method or workflow visual](assets/figures/figure1.png)
-
+![Method or workflow visual](assets/figures/method.png)
 ### Next Steps
 
 Short term: 
