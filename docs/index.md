@@ -217,7 +217,8 @@ What would count as progress:
 
 ## Hypotheses/Intentions
 Our hypotheses is that: earth embeddings (which harmonize many different remote sensing data sources) could help us produce higher resolution soil moisture content maps
-
+## Study Area (Soil moisture Station Density Map)
+![Exploration figure](assets/figures/Layout(1).png)
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
