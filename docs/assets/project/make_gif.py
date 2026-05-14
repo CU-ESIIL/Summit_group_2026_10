@@ -119,3 +119,34 @@ for i, year in enumerate(YEARS):
 
 static.save(OUT_STATIC)
 print(f"Saved static timeline  → {OUT_STATIC}")
+
+# ── Static timeline for 2021–2023 only ───────────────────────────────────────
+YEARS_3 = [y for y in [2021, 2022, 2023] if y in YEARS]
+
+ae_imgs_3   = [load_resized(AE_DIR   / f"AE-{y}.png",   THUMB_H) for y in YEARS_3]
+smap_imgs_3 = [load_resized(SMAP_DIR / f"SMAP-{y}.png", THUMB_H) for y in YEARS_3]
+
+col_w_3  = max(img.width for img in ae_imgs_3 + smap_imgs_3)
+n_cols_3 = len(YEARS_3)
+
+total_w_3 = ROW_LABEL_W + n_cols_3 * col_w_3 + (n_cols_3 - 1) * COL_GAP
+total_h_3 = COL_LABEL_H + 2 * THUMB_H + ROW_GAP
+
+static3 = Image.new("RGB", (total_w_3, total_h_3), BG_COLOR)
+draw3   = ImageDraw.Draw(static3)
+
+draw3.text((ROW_LABEL_W // 2, COL_LABEL_H + THUMB_H // 2),
+           "SMAP", fill=(180, 180, 255), font=font, anchor="mm")
+draw3.text((ROW_LABEL_W // 2, COL_LABEL_H + THUMB_H + ROW_GAP + THUMB_H // 2),
+           "AE",   fill=(180, 255, 180), font=font, anchor="mm")
+
+for i, year in enumerate(YEARS_3):
+    x = ROW_LABEL_W + i * (col_w_3 + COL_GAP)
+    draw3.text((x + col_w_3 // 2, COL_LABEL_H // 2),
+               str(year), fill=TEXT_COLOR, font=small_font, anchor="mm")
+    static3.paste(smap_imgs_3[i], (x, COL_LABEL_H))
+    static3.paste(ae_imgs_3[i],   (x, COL_LABEL_H + THUMB_H + ROW_GAP))
+
+out_3 = BASE / "soil_moisture_timeline_2021-2023.png"
+static3.save(out_3)
+print(f"Saved 2021–2023 timeline → {out_3}")
