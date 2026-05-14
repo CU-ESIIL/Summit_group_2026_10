@@ -307,10 +307,10 @@ Headline 1 — field observation data used for taining
 
 Headline 2 — field observation data used for taining
 Trained regression via RF model
-1st row:AlphaEarth Embeddings
-2nd row:SMAP (tranditional RS)
+Top:AlphaEarth Embeddings
+Bottom: SMAP (tranditional RS)
 
-![Story visual](assets/project/project/soil_moisture_timeline_2021-2023.png)
+![Story visual](assets/project/soil_moisture_timeline_2021-2023.png)
 ...
 
 Headline 3 — implication for practice or policy
