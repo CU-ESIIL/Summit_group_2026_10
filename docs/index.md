@@ -21,31 +21,10 @@ public_mode_toggle: true
 
 # Team 10 Home: Generating High Spatial and Temporal Resolution Soil Moisture Content Maps Using Earth Observation Embeddings
 
-!!! note "Day 1 directions"
-    Change the title to the name of your project.
-
-    [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_10/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
-
-!!! tip "For ESIIL staff"
-    Group Number: 10
-    
-    Breakout Room #: (To be assigned by ESIIL Staff)
-
-    [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_10/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
-    
 
 ![Team hero image](assets/hero/day-1-hero-a.png)
 
-!!! note "How to replace the image above"
-    Upload an image that represents your project and welcome people to your page. 
-    
-    Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
-    Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
 
-    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_10/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
-
-
-[See a completed example](example.md){ .md-button }
 
 ## People { #people .oasis-report-out-context }
 
@@ -118,19 +97,7 @@ People who could use this:
 ## Methods/technologies 📣 
 
 
-[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_10/tree/main/code){ .md-button }
-
-Methods/technologies we are testing:
-
-| Method or technology | What we tested | Early note |
-|---|---|---|
-| Use *yearly* Google AlphaEarth Foundations embeddings to produce soil moisture maps, validate effectiveness with in-situ soil moisture network. | ... | ... |
-| Use *daily* earth observation embeddings using MOSAIKS pipeline AND/OR open-source earth foundation models  | ... | ... |
-| Combine above approaches with coarse soil moisture maps and training set of in-situ soil moisture network | ... | ... |
-| ... | ... | ... |
-
 ![Proposed Method](assets/whiteboards/day2_proposed-method.png)
-
 
 
 ![Method or workflow visual](assets/figures/method.png)
@@ -141,39 +108,30 @@ Methods/technologies we are testing:
 
 *Team members and collaborators who contributed to this project.*
 
-## Results 
+### Preliminary Results 
 
 ## field observation data used for taining
 ![Story visual](assets/project/subsample-stations.png)
 
-## The comparing 
-# Trained regression via RF model ( AE vs SMAP)
-Top:AlphaEarth Embeddings using yearly field data
-Bottom: SMAP (tranditional RS)
+## The comparing: Trained regression via RF model ( AE vs SMAP)
+# Top:AlphaEarth Embeddings using yearly field data
+# Bottom: SMAP (tranditional RS)
 
 ![Story visual](assets/project/soil_moisture_timeline_2021-2023.png)
 
 
-## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
+### What’s next? 📣 
 
 
-- Future workshop via ESIP cluster
-- Monthly meeting （emaillist / slack / Zoom / google storge）
+- ## Future workshop via ESIP cluster
+- ## Monthly meeting （emaillist / slack / Zoom / google storge）
  ![Story visual](assets/figures/ESIP.png)
-
+- ## Future workflow & roadmap
  ![Story visual](assets/figures/futrue.png)
-Who should see this next
 
-- ...
 
-- ## Team Photo { #team-photo }
+- ## Team Photo
 
 ![Team photo](assets/team/team_photo.jpg)
 
-## Cite & Reuse { #cite-reuse }
 
-If you use these materials, please cite:
-
-Summit Team. (2026). *Summit Group 2026 Team 10 — Innovation Summit 2026*. https://github.com/CU-ESIIL/Summit_group_2026_10
-
-License: CC-BY-4.0 unless noted. 
