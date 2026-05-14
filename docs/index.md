@@ -280,22 +280,26 @@ Methods/technologies we are testing:
 - Crops can cycle
 
 ### Visuals
+
+# General Method 
+
 ![Method or workflow visual](assets/figures/method.png)
 
+# How we including earth embedding
 
-## Team Photo { #team-photo }
-
-![Team photo](assets/team/team_photo.jpg)
+![Method or workflow visual](assets/figures/method1.png)
 
 *Team members and collaborators who contributed to this project.*
 
 ## Visuals that tell a story 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — field observation data used for taining
+Headline 1 — 
+## field observation data used for taining
 ![Story visual](assets/project/subsample-stations.png)
 
-Headline 2 — Results comparing 
-Trained regression via RF model ( AE vs SMAP)
+Headline 2 — 
+## Results comparing 
+# Trained regression via RF model ( AE vs SMAP)
 Top:AlphaEarth Embeddings using yearly field data
 Bottom: SMAP (tranditional RS)
 
@@ -313,6 +317,10 @@ Bottom: SMAP (tranditional RS)
 Who should see this next
 
 - ...
+
+- ## Team Photo { #team-photo }
+
+![Team photo](assets/team/team_photo.jpg)
 
 ## Cite & Reuse { #cite-reuse }
 
