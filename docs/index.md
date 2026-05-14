@@ -79,8 +79,6 @@ People who could use this:
 ## Methods/technologies 📣 
 
 
-![Proposed Method](assets/whiteboards/day2_proposed-method.png)
-
 
 ![Method or workflow visual](assets/figures/method3.png)
 
@@ -88,7 +86,6 @@ People who could use this:
 
 ![Method or workflow visual](assets/figures/method1.png)
 
-*Team members and collaborators who contributed to this project.*
 
 ### Preliminary Results 
 
